@@ -1,6 +1,6 @@
 {
   "name": "gulp-summary",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Put the documentation for your gulp tasks up front and center.",
   "main": "index.js",
   "scripts": {
