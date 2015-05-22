@@ -1,0 +1,19 @@
+{
+  "name": "gulp-summary",
+  "version": "0.1.0",
+  "description": "Put the documentation for your gulp tasks up front and center.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webdesserts/gulp-summary/"
+  },
+  "keywords": [
+    "gulp",
+    "documentation"
+  ],
+  "author": "Michael C. Mullins",
+  "license": "ISC"
+}
