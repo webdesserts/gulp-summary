@@ -1,5 +1,5 @@
 function Summary (gulp) {
-  if (this instanceof TaskList === false){
+  if (this instanceof Summary === false){
     return new Summary(gulp);
   }
 
