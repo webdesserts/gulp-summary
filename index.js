@@ -1,4 +1,4 @@
-function TaskList (gulp) {
+function Summary (gulp) {
   if (this instanceof TaskList === false){
     return new TaskList(gulp);
   }
@@ -17,4 +17,4 @@ function TaskList (gulp) {
   }
 }
 
-module.exports = TaskList
+module.exports = Summary
