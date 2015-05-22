@@ -4,6 +4,7 @@ function Summary (gulp) {
   }
 
   this.config = null
+  this.gulp = gulp
 
   this.define = function define (opts) {
     var task = opts.task.bind(this)
