@@ -1,6 +1,6 @@
 function Summary (gulp) {
   if (this instanceof TaskList === false){
-    return new TaskList(gulp);
+    return new Summary(gulp);
   }
 
   this.config = null
